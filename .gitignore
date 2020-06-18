@@ -142,3 +142,7 @@ models/
 *.pth
 *.txt
 *.bin
+
+
+# notebooks folder
+notebooks/
